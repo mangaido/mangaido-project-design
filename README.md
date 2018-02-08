@@ -1,2 +1,10 @@
-# gaido-design
-Gaido Design is a style book defining Mangaido visual identity
+# Gaido Design
+Style book defining Mangaido visual identity
+
+**Colors**
+
+**Typography**
+
+**Forms**
+
+**Navigation**
